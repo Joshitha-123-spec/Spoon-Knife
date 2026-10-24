@@ -36,25 +36,5 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 
 
-Experiment 15: Git Branching and Merge Conflict Resolution
-
 Feature branch change: This line was added on the feature branch.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Main branch change: This line was added on the main branch.
